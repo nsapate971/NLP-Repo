@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 19 11:37:21 2020
 
-@author: Nikkhil M Sapate
-"""
-
-from nltk.chat.util import Chat, reflections
 pairs = [
     [
         r"my name is (.*)",
