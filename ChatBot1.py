@@ -6,7 +6,7 @@ pairs = [
     ],
 [
         r"what is your name ?",
-        ["I am a Chatbot crafted by Nikkhil M Sapate !",]
+        ["I am a Chatbot crafted by Nikkhil  !",]
     ],
 [
         r"how are you ?",
@@ -40,7 +40,7 @@ pairs = [
     ],
 [
         r"(.*) (location|city) ?",
-        ['Aurangabad, MH',]
+        ['ceatul, US',]
     ],
 [
         r"how is status of corona in (.*)?",
